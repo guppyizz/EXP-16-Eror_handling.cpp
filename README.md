@@ -1,5 +1,18 @@
+# 💻 C++ EXPERIMENTS
+
+A curated collection of C++ programs for practice and learning, designed with simplicity and clarity in mind.
+
+---
+
+## 👨‍🎓 Student Information
+
+- **Name:** Updesh Arora  
+- **PRN:** 24070123124  
+- **Branch:** ENTC  
+- **Class:** B-3
+
+---
 # EXP-16-Eror_handling.cpp
-# Error-Handling
 # ⚠️ Exception Handling in C++
 # 🎯 Aim
 To study and implement exception handling in C++, using try, catch, and throw to manage runtime errors gracefully.
